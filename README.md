@@ -18,7 +18,7 @@ please follow instructions on https://dev.twitter.com/ or http://spring.io/guide
 
 Screenshots
 ========
-![Screenshot](/screenshots/screen-tw.jpg?raw=true "Twitter search results example")
+![Screenshot](/screenshots/screen-tw.png?raw=true "Twitter search results example")
 
 How to build
 ========
