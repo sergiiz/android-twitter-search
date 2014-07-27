@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white_text_a80">#CCFFFFFF</color>
+    <color name="white_text">#FFFFFFFF</color>
+    <color name="red">#ffff0000</color>
+    <color name="partly_transparent_60">#60808080</color>
+    <color name="dark_transparent_a80">#CC505050</color>
+</resources>
