@@ -1,12 +1,16 @@
 Twitter Search Example app
 ===========
 
+Example Android project which demonstrates :
 
-Example Android project which demonstrates following :
 0) Gradle project structure for Android app
+
 1) Integration with Twitter API 1.1 (read permissions)
+
 2) Retrofit REST client
+
 3) Picasso image downloading and caching tool
+
 4) Otto Event bus
 
 Warning: you should set Twitter credentials to make this app work,
@@ -14,7 +18,7 @@ please follow instructions on https://dev.twitter.com/ or http://spring.io/guide
 
 Screenshots
 ========
-
+![Screenshot](/screenshots/screen-tw.jpg?raw=true "Twitter search results example")
 
 How to build
 ========
