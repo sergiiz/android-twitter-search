@@ -1,6 +1,8 @@
 Twitter Search Example app
 ===========
 
+[![Build Status](https://travis-ci.org/sergiiz/android-twitter-search.svg?branch=master)](https://travis-ci.org/sergiiz/android-twitter-search)
+
 Example Android project which demonstrates :
 
 0) Gradle project structure for Android app
