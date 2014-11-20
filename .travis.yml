@@ -1,0 +1,25 @@
+language: android
+android:
+  components:
+    # Uncomment the lines below if you want to
+    # use the latest revision of Android SDK Tools
+    # - platform-tools
+    # - tools
+
+    # The BuildTools version used by your project
+    - build-tools-19.1.0
+
+    # The SDK version used to compile your project
+    - android-19
+
+before_install:
+  - chmod +x gradlew
+
+install:
+  # Check install section: http://docs.travis-ci.com/user/build-configuration/#install
+  # If you'd like to skip the install stage entirely, set it to true and nothing will be run.
+  - true
+
+script:
+  # By default Travis-ci executes './gradlew build connectedCheck' if no 'script:' section found.
+  - ./gradlew build
