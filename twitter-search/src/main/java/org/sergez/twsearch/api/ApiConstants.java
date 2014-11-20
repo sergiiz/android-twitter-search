@@ -7,9 +7,9 @@ package org.sergez.twsearch.api;
  */
 public class ApiConstants {
 
- 	public final static String CONSUMER_KEY = ;
+ 	public final static String CONSUMER_KEY = ""; // HIDDEN, please obtain your one on twitter developers
 
-	public	final static String CONSUMER_SECRET = ;
+	public	final static String CONSUMER_SECRET = "";  // HIDDEN, please obtain your one on twitter developers
 
 	public final static String TWITTER_SEARCH_URL = "https://api.twitter.com";
 
